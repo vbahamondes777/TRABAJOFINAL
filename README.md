@@ -1,23 +1,40 @@
-hola
+Para garantizar un desarrollo ordenado e iterativo, hemos estructurado el flujo de trabajo basándonos en el siguiente Plan de Versionamiento Secuencial. Este esquema vincula cada fase de actualización con un conjunto específico de tareas (T1 a T10). Comenzando con una versión base orientada al prototipo y acceso (v0.1.0), el plan describe la aplicación sucesiva de mejoras operativas y parches de optimización visual, asegurando el control de calidad en cada módulo hasta alcanzar la integración total (v1.0.0).
 
-<img width="508" height="225" alt="Captura de pantalla 2026-06-23 212749" src="https://github.com/user-attachments/assets/355e82d6-be63-4623-8dcf-513d34475fd6" />
-<img width="501" height="266" alt="image" src="https://github.com/user-attachments/assets/2b0ae92b-beec-43e7-a973-b45a49b460ee" />
-<img width="488" height="225" alt="image" src="https://github.com/user-attachments/assets/e990d83d-1f8f-46f1-a2d5-c5e87749f85d" />
-<img width="501" height="213" alt="image" src="https://github.com/user-attachments/assets/cb66ba84-645d-4f4a-9e05-8e08a59fa51c" />
-<img width="501" height="221" alt="image" src="https://github.com/user-attachments/assets/9e7794a8-7753-4184-ad17-081c8bcf3edf" />
-<img width="497" height="265" alt="image" src="https://github.com/user-attachments/assets/99dce347-f8bc-4b21-a99b-85efdc1a7d4e" />
-<img width="511" height="220" alt="image" src="https://github.com/user-attachments/assets/3cf7db2e-3dc0-46cd-9e91-ba42b77e8bc7" />
-<img width="498" height="261" alt="image" src="https://github.com/user-attachments/assets/c0c48462-ecb0-4913-8c85-4e9bf9687db2" />
-<img width="497" height="223" alt="image" src="https://github.com/user-attachments/assets/ca85e4f7-e712-413a-bc6f-ad83e7bf1c27" />
-<img width="502" height="217" alt="image" src="https://github.com/user-attachments/assets/13b5e3e3-a708-4565-a655-c006322b129b" />
-<img width="515" height="273" alt="image" src="https://github.com/user-attachments/assets/8e88f655-05d6-4845-95ab-92d743f1d530" />
-<img width="505" height="280" alt="image" src="https://github.com/user-attachments/assets/04e16385-310d-46bd-a30e-a347609fca93" />
-<img width="504" height="265" alt="image" src="https://github.com/user-attachments/assets/e88030c6-cbbe-4959-9847-059a952cb206" />
-<img width="512" height="237" alt="image" src="https://github.com/user-attachments/assets/0f67a4b3-35fd-4962-8498-ee9642d02f87" />
-<img width="504" height="230" alt="image" src="https://github.com/user-attachments/assets/8dc1f734-9078-4609-86da-dcd41272e561" />
-<img width="520" height="229" alt="image" src="https://github.com/user-attachments/assets/000eb6f8-c875-45cb-b4f1-13664bf5e20a" />
-<img width="516" height="293" alt="image" src="https://github.com/user-attachments/assets/18dfc7e8-d1c4-4f46-8c49-1f4c1c546136" />
-<img width="504" height="279" alt="image" src="https://github.com/user-attachments/assets/98ae7db1-0300-478b-82a7-ad171785f1fa" />
-<img width="511" height="231" alt="image" src="https://github.com/user-attachments/assets/1e92b411-361f-4cef-9cb8-e410f92cd3e9" />
-<img width="496" height="241" alt="image" src="https://github.com/user-attachments/assets/1b7f6e26-c38d-4b3e-b9f3-3871beb2331a" />
-<img width="500" height="385" alt="image" src="https://github.com/user-attachments/assets/e0e7f251-bf92-405c-b431-93c85961f63b" />
+
+
+<img width="426" height="194" alt="image" src="https://github.com/user-attachments/assets/d83b15c6-265a-4a06-9a45-fe6eb8a1066d" />
+<img width="500" height="315" alt="image" src="https://github.com/user-attachments/assets/5406f29f-41bf-45b0-8f96-1507f0cbca27" />
+
+Parche v0.1.1: Se aplicaron ajustes de tipeo y mejoras de diseño en esta pantalla para optimizar la legibilidad y la experiencia inicial del usuario.
+
+<img width="455" height="361" alt="image" src="https://github.com/user-attachments/assets/e2910551-ea56-4b35-b789-f01c4b9e5185" />
+<img width="672" height="383" alt="image" src="https://github.com/user-attachments/assets/d441b08c-0c81-4464-b87a-0fa782d3df6b" />
+<img width="467" height="362" alt="image" src="https://github.com/user-attachments/assets/0c1dbe92-9dea-43d0-9d5c-b0cac44f05be" />
+<img width="678" height="371" alt="image" src="https://github.com/user-attachments/assets/991ff771-34bc-40b9-9f34-23b1e77a9c51" />
+
+Parche v0.2.1: Se realizaron ajustes de diseño y correcciones de tipeo en el módulo de escaneo para facilitar la captura y lectura de los documentos de identidad.
+
+<img width="615" height="367" alt="image" src="https://github.com/user-attachments/assets/c77f8a0f-e59d-4884-8d33-136f522d2cd1" />
+<img width="586" height="375" alt="image" src="https://github.com/user-attachments/assets/910ebf59-3c5e-46ec-823a-e998702cf95e" />
+
+Parche v0.2.2: Se reordenaron los campos de este formulario de salida de vehículos para que el flujo de ingreso de datos sea más lógico y rápido.
+
+<img width="583" height="380" alt="image" src="https://github.com/user-attachments/assets/d3dfc04f-feb8-435b-9e74-f296546dd0a6" />
+<img width="586" height="369" alt="image" src="https://github.com/user-attachments/assets/2a6f0600-1ad1-4d84-af57-73ce18a43450" />
+
+Parche v0.3.1: Se ajustó el diseño visual del dashboard de informes para mejorar la lectura de los datos y hacer la interfaz más limpia para los funcionarios.
+
+<img width="493" height="357" alt="image" src="https://github.com/user-attachments/assets/07171678-90d4-472f-a255-7d30002d810e" />
+<img width="453" height="360" alt="image" src="https://github.com/user-attachments/assets/d26b9ec7-ebe9-4299-9801-f5e1b56b0ffd" />
+<img width="446" height="294" alt="image" src="https://github.com/user-attachments/assets/20f8a99f-99a2-4934-8a47-ae0097436809" />
+<img width="545" height="360" alt="image" src="https://github.com/user-attachments/assets/7e829248-4cf5-4c2b-b2e9-99facade5dda" />
+<img width="479" height="356" alt="image" src="https://github.com/user-attachments/assets/3c4ab512-7b7f-461a-b7dc-78c99ce28ddb" />
+<img width="512" height="367" alt="image" src="https://github.com/user-attachments/assets/5f75dcde-a628-4b82-8ae5-c15586426b3f" />
+<img width="511" height="360" alt="image" src="https://github.com/user-attachments/assets/db1f605e-e783-44d7-8823-de2193539cbe" />
+<img width="428" height="354" alt="image" src="https://github.com/user-attachments/assets/aa0a5c51-9800-4da8-bbf4-836e8439e89d" />
+<img width="444" height="280" alt="image" src="https://github.com/user-attachments/assets/ac021e01-7e70-47d6-ad7b-01890c42875f" />
+<img width="515" height="375" alt="image" src="https://github.com/user-attachments/assets/13e44c6d-907a-429c-a03d-6534fee0e522" />
+<img width="465" height="280" alt="image" src="https://github.com/user-attachments/assets/4ffb3610-d6bc-47d3-a5b8-6f5aa3e698e9" />
+
+
+
